@@ -1,0 +1,11 @@
+.styledFont {
+color: green;
+}
+#styledImage {
+    background-color: orange; 
+    border-radius: 25px; 
+    padding: 25px; 
+    width: 15%;
+    border: 8px solid; 
+    border-color: rgb(31, 5, 178);
+}
